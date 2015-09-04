@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextAppearance.Design.Snackbar.Action" parent="TextAppearance.Design.Snackbar.Action">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/snackbar_text_size</item>
+    </style>
+
+</resources>
